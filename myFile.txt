@@ -1,0 +1,2 @@
+hellow
+i am inside the myFile the file and the value inside
